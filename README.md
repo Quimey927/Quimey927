@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Quimey927
 - 👀 I’m interested in web development, more specifically in ReactJS and the MERN stack
-- 🌱 I’m currently building a full stack MERN Social Media App with Auth, Pagination, Comments and more.
-- 💞️ I’m looking to find my first job, I'm very excited to start applying everything I've learned about web development with a work team.
+- 🌱 I’m currently working in a project with a client, building a sport page from scratch.
+- 💞️ I’m looking to find a job in a company, to start working in a team in challenging projects.
 - 📫 How to reach me:
   Mail: quimeymata@gmail.com
   LinkedIn: https://www.linkedin.com/in/quimey-mata/
