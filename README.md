@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Quimey927
-- 👀 I’m interested in web development, more specifically in ReactJS and the MERN stack
+- 👀 I’m a full-stack web development. I work with the PERN stack and the MERN stack.
 - 🌱 I’m currently working in a project with a client, building a sport page from scratch.
 - 💞️ I’m looking to find a job in a company, to start working in a team in challenging projects.
 - 📫 How to reach me:
